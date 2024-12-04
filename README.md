@@ -27,4 +27,4 @@ The **Expense Management System** is a PHP-based web application that helps user
 ## Installation Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/akashgh003/Expense-management-system.git
